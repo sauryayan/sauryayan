@@ -17,7 +17,7 @@ I specialize in transforming messy datasets into clean, actionable business inte
 
 ### 🚀 Featured Portfolio Projects
 
-#### 1. [End-to-End E-Commerce Customer Behavior Analysis](link-to-your-repo)
+#### 1. [[End-to-End E-Commerce Customer Behavior Analysis](link-to-your-repo)](https://github.com/sauryayan/ecommerce-customer-behavior-analysis)
 *A full-stack data pipeline analyzing 3,900+ retail transactions to optimize inventory and marketing strategies.*
 * **Tech Stack:** Python, PostgreSQL, Power BI
 * **Highlights:** * Cleaned and engineered features using Pandas (handling nulls via median imputation).
