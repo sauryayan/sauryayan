@@ -17,14 +17,14 @@ I specialize in transforming messy datasets into clean, actionable business inte
 
 ### 🚀 Featured Portfolio Projects
 
-#### 1. [[End-to-End E-Commerce Customer Behavior Analysis](https://github.com/sauryayan/ecommerce-customer-behavior-analysis)]
+#### 1. [End-to-End E-Commerce Customer Behavior Analysis](https://github.com/sauryayan/ecommerce-customer-behavior-analysis)
 *A full-stack data pipeline analyzing 3,900+ retail transactions to optimize inventory and marketing strategies.*
 * **Tech Stack:** Python, PostgreSQL, Power BI
 * **Highlights:** * Cleaned and engineered features using Pandas (handling nulls via median imputation).
   * Executed complex SQL window functions to evaluate discount dependency and customer segmentation.
   * Designed an interactive Power BI dashboard that debunked internal 80/20 revenue assumptions, revealing the necessity of maintaining broad color variant inventories to protect profit margins.
 
-#### 2. [Movie Industry Correlation Analysis](link-to-your-repo)
+#### 2. [Movie Industry Correlation Analysis](https://github.com/sauryayan/movie-box-office-analysis)
 *A statistical deep-dive into the factors that drive box office success.*
 * **Tech Stack:** Python (Pandas, Seaborn)
 * **Highlights:**
