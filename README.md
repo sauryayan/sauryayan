@@ -31,4 +31,4 @@ I don't just write queries; I know how to ask the right business questions, mana
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** (https://www.linkedin.com/in/sauryayan/)
+- **LinkedIn:** https://www.linkedin.com/in/sauryayan/
