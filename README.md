@@ -1,4 +1,4 @@
-# Hi there, I'm Sauryayan Ralhi 👋
+# Hi there, I'm [Sauryayan Ralhi](https://github.com/sauryayan) 👋
 
 ### 📊 Data Analyst | Bridging the Gap Between Complex Systems and Actionable Insights
 
