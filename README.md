@@ -18,11 +18,11 @@ I don't just write queries; I know how to ask the right business questions, mana
 
 ### 📊 Featured Projects
 #### 1. 🛒 [Diwali Sales Exploratory Data Analysis](https://github.com/sauryayan/diwali-sales-eda-python)
-**Objective:** Analyze holiday retail data to evaluate demographic purchasing behaviors and regional sales performance.
-**Tools Used:** Python (Pandas, Matplotlib, Seaborn)
-**Description:** Engineered median target encoding to evaluate categorical correlations, utilized Pandas to aggregate demographic spending patterns, and developed multivariate visualizations to uncover the crucial gap between high transaction volume and high average order value.
+- **Objective:** Analyze holiday retail data to evaluate demographic purchasing behaviors and regional sales performance.
+- **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
+- **Highlights:** Engineered median target encoding to evaluate categorical correlations, utilized Pandas to aggregate demographic spending patterns, and developed multivariate visualizations to uncover the crucial gap between high transaction volume and high average order value.
 
-#### 2. 👥 [Customer Shopping Behavior Analysis](https://github.com/sauryayan/ecommerce-customer-behavior-analysis)
+#### 2. 🛍️ [Customer Shopping Behavior Analysis](https://github.com/sauryayan/ecommerce-customer-behavior-analysis)
 - **Objective:** Identify primary demographic purchasing drivers and uncover customer shopping patterns.
 - **Tools Used:** Python (Pandas), SQL, Power BI
 - **Highlights:** Engineered a data pipeline to clean and transform datasets using Pandas (handling missing values and formatting via Regex), utilized SQL to query purchasing patterns, and developed an interactive Power BI dashboard to visualize demographic trends.
