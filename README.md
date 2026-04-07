@@ -1,44 +1,88 @@
-# Hi there, I'm Sauryayan 👋
 
-**Data Analyst | Python, SQL, Power BI & Azure**
+<h1 align="center">Hi 👋, I'm Sauryayan</h1>
+<h3 align="center">Data Analyst | SQL • Excel • Power BI • Python</h3>
 
-I am a Data Analyst with a unique background—leveraging over 8 years of experience in civil engineering and project management to drive data-informed business decisions. I specialize in taking raw, messy data and transforming it into clear, actionable business intelligence. 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauryayan&show_icons=true" />
+</p>
 
-I don't just write queries; I know how to ask the right business questions, manage complex workflows, and communicate technical findings to non-technical stakeholders.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauryayan" />
+</p>
 
----
-
-### 🛠️ My Technical Stack
-- **Languages:** SQL (MySQL, PostgreSQL, Window Functions, CTEs), Python (Pandas, NumPy, Regex)
-- **Data Engineering & Cloud:** Azure (Blob Storage, Data Factory, Synapse Analytics)
-- **BI & Visualization:** Power BI (DAX, Data Modeling), Matplotlib, Seaborn
-- **Data Analysis:** Advanced Excel (Power Query, Power Pivot, XLOOKUP), Statistical Analysis
-
----
-
-### 📊 Featured Projects
-
-#### 1. 🏥 [Healthcare Clinical & Financial Analytics Pipeline](https://github.com/sauryayan/Healthcare-Clinical-Analytics-Pipeline)
-- **Objective:** Architect an end-to-end data pipeline to decode hospital billing structures and uncover the clinical drivers of 30-day patient readmissions across 3M+ records.
-- **Tools Used:** Python (Pandas, SQLAlchemy), MySQL, Power BI, DAX
-- **Highlights:** Designed a robust Star Schema using SQL Views to resolve Cartesian grain mismatches, processed 2.2M+ lab results using memory-efficient chunking, and developed an interactive Power BI Command Center that exposed a 26.3% readmission risk cohort and validated DRG flat-rate billing models.
-
-#### 2. 🛒 [Diwali Sales Exploratory Data Analysis](https://github.com/sauryayan/diwali-sales-eda-python)
-- **Objective:** Analyze holiday retail data to evaluate demographic purchasing behaviors and regional sales performance.
-- **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
-- **Highlights:** Engineered median target encoding to evaluate categorical correlations, utilized Pandas to aggregate demographic spending patterns, and developed multivariate visualizations to uncover the crucial gap between high transaction volume and high average order value.
-
-#### 3. 🛍️ [Customer Shopping Behavior Analysis](https://github.com/sauryayan/ecommerce-customer-behavior-analysis)
-- **Objective:** Identify primary demographic purchasing drivers and uncover customer shopping patterns.
-- **Tools Used:** Python (Pandas), SQL, Power BI
-- **Highlights:** Engineered a data pipeline to clean and transform datasets using Pandas (handling missing values and formatting via Regex), utilized SQL to query purchasing patterns, and developed an interactive Power BI dashboard to visualize demographic trends.
-
-#### 4. 🎬 [Box Office Financial Correlation Analysis](https://github.com/sauryayan/movie-box-office-analysis)
-- **Objective:** Analyze the correlation between movie production budgets, genres, and overall profitability.
-- **Tools Used:** Python (Pandas, NumPy, Seaborn)
-- **Highlights:** Conducted in-depth Exploratory Data Analysis (EDA) on extensive movie datasets, manipulating and structuring the data before visualizing financial and genre-based correlations using Seaborn. 
+<p align="center">
+  Turning raw data into actionable business insights 🚀
+</p>
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** https://www.linkedin.com/in/sauryayan/
+## 👨‍💻 About Me
+
+- 📊 Data Analyst with **1–2 years of hands-on experience** in analytics & reporting  
+- 🔍 Strong in **SQL, Excel, Python, and Power BI**  
+- 🧠 Skilled at **data cleaning, EDA, and dashboarding**  
+- 💡 Background in engineering — experienced in **real-world problem solving & decision-making**  
+- 🎯 Currently seeking **Data Analyst opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+`SQL` • `Python` • `Microsoft Excel` • `Power BI`
+
+**Libraries**  
+`Pandas` • `NumPy`
+
+**Core Skills**  
+`Data Analysis` • `Data Cleaning` • `EDA` • `Dashboarding` • `ETL` • `Data Visualization`
+
+---
+
+## 📊 Featured Projects
+
+### 🏥 Healthcare Clinical & Financial Analytics Pipeline
+- Built an **end-to-end ETL pipeline** processing **3M+ records**
+- Designed **star schema & SQL views (CTEs)** for clean data modeling  
+- Identified **26.3% high-risk readmission cohort**
+- Developed **Power BI dashboard** for clinical & financial KPIs  
+
+🔗 *[View Project](https://github.com/sauryayan/Healthcare-Clinical-Analytics-Pipeline)*
+
+---
+
+### 🛒 E-Commerce Customer Behavior Analysis
+- Analyzed transactional data using **SQL & Python**
+- Performed **customer segmentation & revenue trend analysis**
+- Built **interactive dashboards** for business insights  
+
+🔗 *[View Project](https://github.com/sauryayan/ecommerce-customer-behavior-analysis)*
+
+---
+
+### 🎯 Diwali Sales Data Analysis
+- Conducted **EDA using Python & Excel**
+- Identified **customer segments & regional trends**
+- Delivered insights for **marketing optimization**
+
+🔗 *[View Project](https://github.com/sauryayan/diwali-sales-eda-python))*
+
+---
+
+## 📈 What I Bring
+
+- Ability to **translate business problems into data solutions**
+- Strong **analytical thinking & attention to detail**
+- Experience working with **real-world datasets**
+- Clear communication of **data insights to stakeholders**
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yourprofile
+- 📧 Email: sauryayan15@gmail.com  
+
+---
+
+⭐ *If you find my work interesting, feel free to explore my repositories and connect!*
