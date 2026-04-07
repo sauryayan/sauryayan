@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sauryayan</h1>
 <h3 align="center">Data Analyst | SQL • Excel • Power BI • Python</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauryayan&show_icons=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sauryayan&show_icons=true&cache_seconds=1800" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauryayan" />
@@ -65,7 +63,7 @@
 - Identified **customer segments & regional trends**
 - Delivered insights for **marketing optimization**
 
-🔗 *[View Project](https://github.com/sauryayan/diwali-sales-eda-python))*
+🔗 *[View Project](https://github.com/sauryayan/diwali-sales-eda-python)*
 
 ---
 
