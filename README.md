@@ -80,7 +80,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yourprofile
+- 💼 LinkedIn: https://www.linkedin.com/in/sauryayan/
 - 📧 Email: sauryayan15@gmail.com  
 
 ---
