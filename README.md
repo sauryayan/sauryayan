@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="https://github.com/sauryayan/github_banner/blob/main/Gemini_Generated_Image_wwkk5cwwkk5cwwkk.png" alt="banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sauryayan</h1>
 <h3 align="center">Data Analyst | SQL • Excel • Power BI • Python</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sauryayan&show_icons=true&cache_seconds=1800" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauryayan" />
