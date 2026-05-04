@@ -40,6 +40,16 @@
 
 ## 📊 Featured Projects
 
+### 📊 Retail Sales & Profitability Analysis Dashboard
+- Analyzed **₹2.7L+ retail sales data** to uncover key profitability drivers  
+- Identified that **high discounting (>30%)** and a **small subset of products** drive majority of business losses  
+- Revealed **customer segment inefficiencies** and **region-wise performance gaps**  
+- Developed **interactive Power BI dashboards** with drill-down analysis and dynamic tooltips  
+
+🔗 *[View Project](https://github.com/sauryayan/retail-sales-profitability-analysis-powerbi)*
+
+---
+
 ### 🏥 Healthcare Clinical & Financial Analytics Pipeline
 - Built an **end-to-end ETL pipeline** processing **3M+ records**
 - Designed **star schema & SQL views (CTEs)** for clean data modeling  
@@ -56,15 +66,6 @@
 - Built **interactive dashboards** for business insights  
 
 🔗 *[View Project](https://github.com/sauryayan/ecommerce-customer-behavior-analysis)*
-
----
-
-### 🎯 Diwali Sales Data Analysis
-- Conducted **EDA using Python & Excel**
-- Identified **customer segments & regional trends**
-- Delivered insights for **marketing optimization**
-
-🔗 *[View Project](https://github.com/sauryayan/diwali-sales-eda-python)*
 
 ---
 
