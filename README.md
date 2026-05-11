@@ -41,10 +41,10 @@
 ## 📊 Featured Projects
 
 ### 📊 Retail Sales & Profitability Analysis Dashboard
-- Analyzed **₹2.7L+ retail sales data** to uncover key profitability drivers  
-- Identified that **high discounting (>30%)** and a **small subset of products** drive majority of business losses  
-- Revealed **customer segment inefficiencies** and **region-wise performance gaps**  
-- Developed **interactive Power BI dashboards** with drill-down analysis and dynamic tooltips  
+- Analyzed **9,904 retail transactions ($2.29M+ sales)** to diagnose revenue performance, profit leakage, and discount impact  
+- Discovered a critical **20% discount threshold** beyond which profitability deteriorates sharply, with top loss-making products driving nearly **30% of total losses**  
+- Uncovered actionable insights across **customer segments, regional profitability, and category-level performance**  
+- Built a **multi-page interactive Power BI dashboard** using **DAX, drill-through analytics, and custom tooltips for executive decision-making**  
 
 🔗 *[View Project](https://github.com/sauryayan/retail-sales-profitability-analysis-powerbi)*
 
